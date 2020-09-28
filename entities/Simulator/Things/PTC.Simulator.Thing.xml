@@ -15,7 +15,7 @@
          enabled="true"
          homeMashup=""
          identifier=""
-         lastModifiedDate="2020-07-15T16:10:22.884Z"
+         lastModifiedDate="2020-09-28T04:09:29.719Z"
          name="PTC.Simulator.Thing"
          projectName="Simulator"
          published="false"
@@ -66,8 +66,8 @@
                     <Quality>GOOD</Quality>
                 </FriendlyName>
                 <hum>
-                    <Value>50.10456126543254</Value>
-                    <Timestamp>2019-02-20T19:54:51.006Z</Timestamp>
+                    <Value>36.8680240419474</Value>
+                    <Timestamp>2020-09-28T06:09:07.777Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </hum>
                 <HumidityHigh>
@@ -76,8 +76,8 @@
                     <Quality>GOOD</Quality>
                 </HumidityHigh>
                 <pitch>
-                    <Value>33.0</Value>
-                    <Timestamp>2019-02-20T19:54:51.006Z</Timestamp>
+                    <Value>13.0</Value>
+                    <Timestamp>2020-09-28T06:09:07.776Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </pitch>
                 <PitchHighLimit>
@@ -86,8 +86,8 @@
                     <Quality>GOOD</Quality>
                 </PitchHighLimit>
                 <roll>
-                    <Value>22.0</Value>
-                    <Timestamp>2019-02-20T19:54:51.006Z</Timestamp>
+                    <Value>34.0</Value>
+                    <Timestamp>2020-09-28T06:09:07.777Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </roll>
                 <RollHighLimit>
@@ -96,8 +96,8 @@
                     <Quality>GOOD</Quality>
                 </RollHighLimit>
                 <temp>
-                    <Value>15.372103136342187</Value>
-                    <Timestamp>2019-02-20T19:54:51.006Z</Timestamp>
+                    <Value>28.84264311487099</Value>
+                    <Timestamp>2020-09-28T06:09:07.778Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </temp>
                 <TemperatureHigh>
@@ -106,8 +106,8 @@
                     <Quality>GOOD</Quality>
                 </TemperatureHigh>
                 <yaw>
-                    <Value>6.0</Value>
-                    <Timestamp>2019-02-20T19:54:51.006Z</Timestamp>
+                    <Value>4.0</Value>
+                    <Timestamp>2020-09-28T06:09:07.775Z</Timestamp>
                     <Quality>GOOD</Quality>
                 </yaw>
                 <YawHighLimit>
